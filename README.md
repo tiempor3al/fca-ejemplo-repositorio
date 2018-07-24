@@ -1,4 +1,4 @@
-##Actividad 1 Introduccion a TextView.
+## Actividad 1 Introduccion a TextView.
 
 TextView es un componente de Android que permite desplegar texto. 
 
