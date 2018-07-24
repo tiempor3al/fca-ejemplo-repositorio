@@ -4,7 +4,7 @@ TextView es un componente de Android que permite desplegar texto.
 
 [Referencia](https://developer.android.com/reference/android/widget/TextView)
 
-Sigue las instrucciones del archivo principal que se encuentra en app/java/unam.fca.dmoviles/MainActivity.java
+Sigue las instrucciones del archivo principal que se encuentra en app/src/main/java/unam/fca/MainActivity.java
 
 Al finalizar tu aplicacion debera verse asi:
 
