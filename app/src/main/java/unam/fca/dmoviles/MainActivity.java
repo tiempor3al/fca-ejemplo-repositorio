@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         //Para cambiar el texto de tv
-        tv.setText("Hola hoy es jueves");
+        tv.setText("Hola hoy es viernes");
 
         //Actividades
         //a) Modifica el texto "Hola mundo", pon tu nombre y ejecuta la aplicacion
